@@ -1,1 +1,1 @@
-echo "# lab-1-danoynay" >> README.md
+#CMSC 22 Laboratory Exercises 
